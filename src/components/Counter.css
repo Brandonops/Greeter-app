@@ -1,0 +1,31 @@
+.Counter {
+    font-size: 2em;
+    background: radial-gradient(circle, rgba(251,63,105,1) 0%, rgba(73,15,2,1) 100%);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 5px 5px rgba(0 0 0 / 30%);
+    display: flex;
+    min-width: 500px;
+    justify-content: space-between;
+    
+  }
+  
+  .red {
+    color: red;
+  }
+  
+  .green {
+    color: lime;
+  }
+
+
+
+  .hoverFloat:hover {
+      font-size: .5em;
+      color: rgb(255, 0, 242);
+      box-shadow: 0px 0px 12px 8px #000000;
+  }
+
+  .btn {
+      background-color: darkviolet;
+  }
